@@ -1,5 +1,1 @@
-// Hello world
-
-//Goodbye world
-
-//Hello again world
+//Wow är roligt igen
